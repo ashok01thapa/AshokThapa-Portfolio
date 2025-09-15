@@ -1,6 +1,6 @@
 // import React, { use }  from 'react'
-import { useState } from 'react'
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react'
+
 
 // id, size, x, y, opacity, animationDuration
 // id, size, x, y, delay, animationDuration

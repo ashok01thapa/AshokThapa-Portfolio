@@ -62,7 +62,7 @@ export const ContactSection = () => {
                                     <h4 className='font-medium'> Email</h4>
                                     <a
                                         href="mailto:hello@gmail.com" className='text-muted-foreground hover:text-primary
-                                transition-colors'>
+                                transition-colors duration-300'>
                                         mgr.axok@gmail.com
                                     </a>
 
@@ -79,8 +79,8 @@ export const ContactSection = () => {
                                 <div>
                                     <h4 className='font-medium'> Phone</h4>
                                     <a
-                                        href="tel:9817504830" className='text-muted-foreground hover:text-primary
-                                transition-colors'>
+                                        href="tel:9894564664" className='text-muted-foreground hover:text-primary
+                                transition-colors duration-300'>
                                         +977 (9817504830)
                                     </a>
 
@@ -98,8 +98,8 @@ export const ContactSection = () => {
                                     <h4 className='font-medium'> Location</h4>
                                     <a
                                         className='text-muted-foreground hover:text-primary
-                                transition-colors'>
-                                        Sukhedhara , Katmandu, Nepal
+                                transition-colors duration-300'>
+                                        Sukhedhara, Katmandu, Nepal
                                     </a>
 
                                 </div>
@@ -111,17 +111,17 @@ export const ContactSection = () => {
 
                         <div className='pt-8'>
                             <h4 className='font-medium mb-4 '> Connect with Me</h4>
-                            <div className='flex space-x-4 justify-center'>
-                                <a href='#' target='_blank' >
+                            <div className='flex space-x-4 justify-center '>
+                                <a href='#' target='_blank' className='hover:text-primary transition-colors duration-300' >
                                     <Linkedin />
                                 </a>
-                                <a href='' target='_blank'>
+                                <a href='' target='_blank' className='hover:text-primary transition-colors duration-300'>
                                     <Twitter />
                                 </a>
-                                <a href='' target='_blank'>
+                                <a href='' target='_blank' className='hover:text-primary transition-colors duration-300'>
                                     <Instagram />
                                 </a>
-                                <a href='' target='_blank'>
+                                <a href='' target='_blank'className='hover:text-primary transition-colors duration-300'>
                                     <Twitch />
                                 </a>
                             </div>

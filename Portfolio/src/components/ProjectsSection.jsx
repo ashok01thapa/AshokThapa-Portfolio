@@ -68,7 +68,7 @@ const ProjectsSection = () => {
 
             <h3 className='font-semibold text-xl mb-1'>
               {project.title}</h3>
-              <p className='text-sm mb-4 text-muted-forground'>
+              <p className='text-sm mb-4 text-muted-foreground'>
                 {project.description}</p>
 
                 <div className='flex justify-between items-center'>
@@ -82,7 +82,7 @@ const ProjectsSection = () => {
 
                     <a href={project.githubUrl}
                     target='_blank'
-                    className='text-foreground/80 hover:text-primart transition-colors
+                    className='text-foreground/80 hover:text-primary transition-colors
                     duration-300' >
                       <Github size={20}/>
                     </a>

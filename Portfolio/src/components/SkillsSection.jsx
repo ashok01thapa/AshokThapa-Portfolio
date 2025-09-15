@@ -43,7 +43,7 @@ const SkillsSection = () => {
                     className={cn('px-5 py-2 rounded-full transition-colors duration-300 capitalize',
                         activeCategory === category
                          ? "bg-primary text-primary-foreground"
-                         : "bg-secondary/70 text-foreground hover:bd-secondary"
+                         : "bg-secondary/70 text-foreground hover:bg-secondary"
                     )}
                     >
                         {category}
@@ -62,7 +62,7 @@ const SkillsSection = () => {
                         </div>
 
                         <div className='w-full bg-secondary/50 h-2 rounded-full overflow-hidden'>
-                        <div className='bg-primary h-2 rounded-full origin-left animate-[grow_1.5_ease-out'
+                        <div className='bg-primary h-2 rounded-full origin-left animate-[grow_1.5_ease-out]'
                         style={{width: skill.level + "%"}}/>
 
                         </div>

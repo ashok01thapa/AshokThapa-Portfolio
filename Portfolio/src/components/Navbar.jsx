@@ -44,7 +44,7 @@ const Navbar = () => {
 
                     <span className='relative z-10'>
                         <span className='text-glow text-foreground'>
-                            AshokTech
+                            AshokTech 
                         </span>
                         Portfolio
                     </span>
@@ -66,14 +66,14 @@ const Navbar = () => {
 
                 <button
                     onClick={() => setMenuOpen((prev) => !prev)}
-                    className='md:hidden p-2 text-foreground z-50  '
+                    className='md:hidden px-10 p-2 text-foreground z-50  '
                     aria-label={isMenuOpen ? "Close Menu" : "Open Menu"}
                 >
                     {isMenuOpen ? <X size={24} /> : <Menu size={24} />} </button>
 
                 <div className={cn(
                     "fixed inset-0 bg-background/95 backdrop-blur-md z-40 flex flex-col items-center justify-center",
-                    "transtion-all duration-300 md:hidden",
+                    "transition-all duration-300 md:hidden",
                     isMenuOpen
                         ? "opactiy-100 pointer-events-auto"
                         : "opacity-0 pointer-events-none"
