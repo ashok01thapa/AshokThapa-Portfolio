@@ -26,7 +26,7 @@ This repository contains the source code for my personal portfolio website. It's
 - CSS3
 - JavaScript
 - React-Js
-- Tailwind Css
+- Tailwind CSS
 
 ## 🚀 Getting Started
 
