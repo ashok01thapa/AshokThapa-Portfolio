@@ -21,7 +21,7 @@ const HeroSection = () => {
                 </h1>
 
                 <p className='text-md md:text-lg text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
-                    I'm a passionate Front-End Developer who loves turning ideas into visually appealing and user-friendly websites. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I focus on creating responsive, accessible, and high-performance interfaces. I enjoy combining clean code with creative design to deliver engaging digital experiences.
+                   I'm a passionate DevOps Engineer who loves building reliable, automated infrastructure. Skilled in CI/CD pipelines, containerization, cloud platforms, and infrastructure as code. I focus on streamlining development workflows and improving system reliability. I enjoy combining automation with solid engineering practices to deliver robust, efficient systems.
                 </p>
 
                 <div className='pt-4 opacity-0 animate-fade-in-delay-4'>
