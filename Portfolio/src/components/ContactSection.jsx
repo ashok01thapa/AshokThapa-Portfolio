@@ -99,7 +99,7 @@ export const ContactSection = () => {
                                     <a
                                         className='text-muted-foreground hover:text-primary
                                 transition-colors duration-300'>
-                                        Sukhedhara, Katmandu, Nepal
+                                        Basundhara, Katmandu, Nepal
                                     </a>
 
                                 </div>
@@ -112,13 +112,13 @@ export const ContactSection = () => {
                         <div className='pt-8'>
                             <h4 className='font-medium mb-4 '> Connect with Me</h4>
                             <div className='flex space-x-4 justify-center '>
-                                <a href='#' target='_blank' className='hover:text-primary transition-colors duration-300' >
+                                <a href='https://www.linkedin.com/in/ashok-thapa-aa9a98260/' target='_blank' className='hover:text-primary transition-colors duration-300' >
                                     <Linkedin />
                                 </a>
                                 <a href='' target='_blank' className='hover:text-primary transition-colors duration-300'>
                                     <Twitter />
                                 </a>
-                                <a href='' target='_blank' className='hover:text-primary transition-colors duration-300'>
+                                <a href='https://www.instagram.com/dazaimgar/' target='_blank' className='hover:text-primary transition-colors duration-300'>
                                     <Instagram />
                                 </a>
                                 <a href='' target='_blank'className='hover:text-primary transition-colors duration-300'>

@@ -8,12 +8,12 @@ const ProjectsSection = () => {
   const projects = [
     {
       id:1,
-      title: "Cafe",
+      title: "Coffee-Cafe",
       description: "A beautiful landing page app using React and Tailwind.",
       image: "/projects/project1.png",
       tags: ["React", "TailwindCSS","Aos" ],
-      demoUrl: "#",
-      githubUrl: "#",
+      demoUrl: "https://coffee-cafe-gamma-eight.vercel.app",
+      githubUrl: "https://github.com/ashok01thapa/Coffee_Cafe.git",
     },
     {
       id:2,
@@ -21,8 +21,8 @@ const ProjectsSection = () => {
       description: "A beautiful landing page app using React and Tailwind.",
       image: "projects/project2.png",
       tags: ["Nextjs", "TailwindCSS", "MongoDB" ],
-      demoUrl: "#",
-      githubUrl: "#",
+      demoUrl: "https://bit-link-url-shortener.vercel.app",
+      githubUrl: "https://github.com/ashok01thapa/BitLink_URL_Shortener.git",
     },
     {
       id:3,
@@ -30,8 +30,8 @@ const ProjectsSection = () => {
       description: "A beautiful landing page app using React and Tailwind.",
       image: "/projects/project3.png",
       tags: ["React", "TailwindCSS", "Nodejs" ],
-      demoUrl: "#",
-      githubUrl: "#",
+      demoUrl: "https://todo-list-plum-two-69.vercel.app",
+      githubUrl: "https://github.com/ashok01thapa/Todo-List.git",
     },
   ]
   return (

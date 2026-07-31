@@ -11,10 +11,14 @@ const SkillsSection = () => {
         {name: "Tailwind CSS", level:60, category: "frontend"},
 
         // Tools
-        {name: "Git/GitHub", level: 90, category:"tools"},
-        {name: "Docker", level: 70, category:"tools"},
-        {name: "Figma", level:60, category:"tools"},
-        {name: "VS Code",level: 95, category:"tools"},
+        {name: "CI/CD Jenkins", level: 90, category:"tools"},
+        {name: "Kubernetes",level: 65, category:"tools"},
+        {name: "AWS",level: 75, category:"tools"},
+        {name: "Terraform",level: 70, category:"tools"},
+        {name: "Prometheus & Grafana",level: 70, category:"tools"},
+        {name: "ArgoCD",level: 70, category:"tools"},
+        
+
 
     ];
 

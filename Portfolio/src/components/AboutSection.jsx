@@ -1,5 +1,5 @@
 import React from 'react'
-import { Code, User, Briefcase } from 'lucide-react'
+import { Server, GitBranch, Cloud } from 'lucide-react'
 
 const AboutSection = () => {
   return (
@@ -15,13 +15,13 @@ const AboutSection = () => {
         <div className='grid grid-cols-1 md:grid-cols-2  gap-12 items-center'>
 
           <div className='space-y-6'>
-            <h3 className='text-2xl font-semibold '>Passionate Web Developer & Tech Creators</h3>
+            <h3 className='text-2xl font-semibold '>Passionate DevOps Engineer & Automation Enthusiast</h3>
             <p className='text-muted-foreground'>
-              Aspiring Front-End Developer with a passion for crafting sleek, responsive, and user-friendly websites. Eager to bring fresh creativity, clean code, and a can-do attitude to every challenge.
+              Aspiring DevOps Engineer with a passion for building reliable, automated, and scalable systems. Eager to bring strong problem-solving skills, clean infrastructure code, and a can-do attitude to every challenge.
             </p>
 
             <p className='text-muted-foreground'>
-              I'm passionate about creating elegant solutuions to complex problems, and I'm constantly learning new technologies and techniques to stay at the forefront of the ever-evolving web landscape.
+              I'm passionate about streamlining development workflows and improving system reliability, and I'm constantly learning new tools and techniques to stay at the forefront of the ever-evolving DevOps landscape.
             </p>
 
             <div className='flex flex-col sm:flex-row justify-center gap-4 pt-4'>
@@ -44,14 +44,14 @@ const AboutSection = () => {
               <div className='flex items-start gap-4'>
 
                 <div className='p-3 rounded-full bg-primary/10'>
-                <Code className='h-6 w-6 text-primary'/>
+                <Server className='h-6 w-6 text-primary'/>
                 </div>
 
                 <div className='text-left'>
                   <h4 className='font-semibold text-lg'>
-                     Web Development</h4>
+                     Infrastructure as Code</h4>
                   <p className='text-muted-foreground'>
-                    Creating responsive websites and web applications with modern frameworks.
+                    Automating infrastructure provisioning and configuration with tools like Terraform.
                   </p>
 
                 </div>
@@ -63,14 +63,14 @@ const AboutSection = () => {
               <div className='flex items-start gap-4'>
                 
                 <div className='p-3 rounded-full bg-primary/10'>
-                <User className='h-6 w-6 text-primary'/>
+                <GitBranch className='h-6 w-6 text-primary'/>
                 </div>
 
                 <div className='text-left'>
                   <h4 className='font-semibold text-lg'>
-                     UI/UX Design</h4>
+                     CI/CD & Automation</h4>
                   <p className='text-muted-foreground'>
-                    Designing intuitive user interfaces and seamless user experiences.
+                    Building automated pipelines for testing, building, and deploying applications efficiently.
                   </p>
                 </div>
 
@@ -81,14 +81,14 @@ const AboutSection = () => {
               <div className='flex items-start gap-4'>
                 
                 <div className='p-3 rounded-full bg-primary/10'>
-                <Briefcase className='h-6 w-6 text-primary'/>
+                <Cloud className='h-6 w-6 text-primary'/>
                 </div>
 
                 <div className='text-left'>
                   <h4 className='font-semibold text-lg'>
-                     Project Management</h4>
+                     Cloud Infrastructure</h4>
                   <p className='text-muted-foreground'>
-                   Leading projects from conception to completion with agile methodologies.
+                   Managing scalable cloud environments and containerized deployments with Docker & Kubernetes.
                   </p>
                 </div>
 
