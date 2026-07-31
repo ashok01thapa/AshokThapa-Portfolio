@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, skills, and experience.
 
-🔗 **Live Site:** _add your deployed URL here (e.g. GitHub Pages / Vercel / Netlify link)_
+🔗 **Live Site:** _add your deployed URL here ([e.g. GitHub Pages / Vercel / Netlify link](https://ashok-thapa-portfolio-h52h.vercel.app/))_
 
 ---
 
