@@ -21,7 +21,7 @@ const HeroSection = () => {
                 </h1>
 
                 <p className='text-md md:text-lg text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3'>
-                    I’m a passionate Front-End Developer who loves turning ideas into visually appealing and user-friendly websites. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I focus on creating responsive, accessible, and high-performance interfaces. I enjoy combining clean code with creative design to deliver engaging digital experiences.
+                    I'm a passionate Front-End Developer who loves turning ideas into visually appealing and user-friendly websites. Skilled in HTML, CSS, JavaScript, and modern frameworks like React. I focus on creating responsive, accessible, and high-performance interfaces. I enjoy combining clean code with creative design to deliver engaging digital experiences.
                 </p>
 
                 <div className='pt-4 opacity-0 animate-fade-in-delay-4'>
@@ -35,8 +35,7 @@ const HeroSection = () => {
 
         </div>
 
-        <div className='
-        absolute bottom-5 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce  '>
+        <div className='absolute bottom-5 left-1/2 transform -translate-x-1/2 flex flex-col items-center animate-bounce'>
           <span className='text-sm text-muted-foreground mb-2'>
              Scroll</span>
           <ArrowDown className='h-5 w-5 text-primary'/>
