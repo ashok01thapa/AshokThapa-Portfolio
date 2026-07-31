@@ -60,8 +60,8 @@ AshokThapa-Portfolio/
 ## 📬 Contact
 
 - GitHub: [@ashok01thapa](https://github.com/ashok01thapa)
-- Email: _add your email_
-- LinkedIn: _add your LinkedIn URL_
+- Email: [mgr.axok@gmail.com](mailto:mgr.axok@gmail.com)
+- LinkedIn: [ashok-thapa](https://www.linkedin.com/in/ashok-thapa-aa9a98260)
 
 ## 📄 License
 
